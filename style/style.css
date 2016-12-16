@@ -1,0 +1,39 @@
+.arthur{
+	-fx-background-color: red;
+	-fx-text-fill: black;	
+}
+
+.beatrice{
+	-fx-font-size: 200%;
+}
+		.pane{
+	-fx-font-size: 250%;
+	-fx-padding: 20px;
+}
+
+.grid{
+	-fx-font-size: 200%;
+}
+
+.clickedLabel{	
+	-fx-background-color: #00FFFF;	
+}
+
+.clickedBox{
+	-fx-alignment: center;
+}
+
+.amstyle{
+	-fx-background-color: #FFFF00;
+	-fx-text-fill: #00DDFF;	
+	-fx-font-size: 300%;
+}
+
+.pmstyle{
+	-fx-background-color: #FF00FF;
+	-fx-text-fill: #00FF00;
+	-fx-font-size: 400%;
+}
+
+		
+		
